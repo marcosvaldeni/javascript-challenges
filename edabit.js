@@ -1,7 +1,10 @@
 
-function skipTooMuchSugarDrinks(drinks) {
-	return drinks.filter(n => !["fanta", "cola"].includes(n));
+function birthdayCakeCandles(candles) {
+	const max = Math.max(...candles);
+	return candles.filter(n => n === max).length;
 }
+
+
 
 
 const done = [
@@ -34,6 +37,8 @@ const done = [
   'HBNwoHQJn5uTWJCgM', // irrelevant
   'ciuEF8N3NNegxbasd', // irrelevant
   'mN98zKeSSLnXwKz8C', // irrelevant
+  '7hrjegxToTSF4zAoM', // irrelevant
+  '8xAvdyphm83tzKCKt', // irrelevant
   'FvXHdrhjLaof47Qt3', // very easy
   'kJQYTCCWSnzhXG9dn', // very easy
   '7JBTN4TbaxJQMdX9W', // very easy
@@ -47,7 +52,17 @@ const done = [
   'y6dMjvNaPXXNKeBRQ', // very easy
   '9mKB2XJJ9gYgjms4Z', // very easy
   'dgf76hmQ5Yw4FATFi', // very easy
+  'izss6QT59oH72uky3', // very easy
+  'XKX5NHT92okxXCKW7', // very easy
+  '3BqLw3Rp85Y94nAho', // very easy
   '5L368ypvh5ZZ2HJSL', // easy
+  'zHutBxQaWvzhzGgxL', // easy
+  'webH9q8JMHc6SmTpY', // easy
+  'iuLDXd4mTgcCeTjhM', // easy
+  'ado29iTz4EGfzY2EP', // easy
+  'AhFCvDdQeA7TnKSqe', // easy
+  'qWhoswdp35f8xzqGw', // easy
+  'rqu2efZF7N2MEYDWk', // 👍 easy
 ];
 
 const listExercises = document.querySelectorAll('[role="listitem"]');
