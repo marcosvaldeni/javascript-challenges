@@ -1,12 +1,3 @@
-
-function birthdayCakeCandles(candles) {
-	const max = Math.max(...candles);
-	return candles.filter(n => n === max).length;
-}
-
-
-
-
 const done = [
   'QaApgtePE6QrCZ64o', // irrelevant
   'ARr5tA458o2tC9FTN', // irrelevant
@@ -39,6 +30,7 @@ const done = [
   'mN98zKeSSLnXwKz8C', // irrelevant
   '7hrjegxToTSF4zAoM', // irrelevant
   '8xAvdyphm83tzKCKt', // irrelevant
+  'yks7uNNSRJFWDuj3m', // irrelevant
   'FvXHdrhjLaof47Qt3', // very easy
   'kJQYTCCWSnzhXG9dn', // very easy
   '7JBTN4TbaxJQMdX9W', // very easy
@@ -63,6 +55,8 @@ const done = [
   'AhFCvDdQeA7TnKSqe', // easy
   'qWhoswdp35f8xzqGw', // easy
   'rqu2efZF7N2MEYDWk', // 👍 easy
+  'EEWcSX7Rz5cWzes5d', // 👍 easy
+  'fzF6JqF7JjtJok9jY', // 👍 easy
 ];
 
 const listExercises = document.querySelectorAll('[role="listitem"]');
