@@ -1,3 +1,10 @@
+
+function sumMinimums(arr){
+  return arr.reduce((a, b) => a + Math.min(...b), 0);
+}
+
+
+
 const done = [
   'QaApgtePE6QrCZ64o', // irrelevant
   'ARr5tA458o2tC9FTN', // irrelevant
@@ -31,6 +38,7 @@ const done = [
   '7hrjegxToTSF4zAoM', // irrelevant
   '8xAvdyphm83tzKCKt', // irrelevant
   'yks7uNNSRJFWDuj3m', // irrelevant
+  'MT5SbF9Xg5Dku6bqL', // irrelevant
   'FvXHdrhjLaof47Qt3', // very easy
   'kJQYTCCWSnzhXG9dn', // very easy
   '7JBTN4TbaxJQMdX9W', // very easy
@@ -54,9 +62,11 @@ const done = [
   'ado29iTz4EGfzY2EP', // easy
   'AhFCvDdQeA7TnKSqe', // easy
   'qWhoswdp35f8xzqGw', // easy
+  'WR3Q72Jbv7Kyzu6AT', // easy
   'rqu2efZF7N2MEYDWk', // 👍 easy
   'EEWcSX7Rz5cWzes5d', // 👍 easy
   'fzF6JqF7JjtJok9jY', // 👍 easy
+  '5RiZh6yJKeGEo4P3z', // 👍👍 easy
 ];
 
 const listExercises = document.querySelectorAll('[role="listitem"]');
