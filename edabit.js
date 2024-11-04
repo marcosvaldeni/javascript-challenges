@@ -1,10 +1,3 @@
-
-function sumMinimums(arr){
-  return arr.reduce((a, b) => a + Math.min(...b), 0);
-}
-
-
-
 const done = [
   'QaApgtePE6QrCZ64o', // irrelevant
   'ARr5tA458o2tC9FTN', // irrelevant
@@ -39,6 +32,7 @@ const done = [
   '8xAvdyphm83tzKCKt', // irrelevant
   'yks7uNNSRJFWDuj3m', // irrelevant
   'MT5SbF9Xg5Dku6bqL', // irrelevant
+  'pDc7MLcGYzhCW6wRf', // irrelevant
   'FvXHdrhjLaof47Qt3', // very easy
   'kJQYTCCWSnzhXG9dn', // very easy
   '7JBTN4TbaxJQMdX9W', // very easy
@@ -55,6 +49,7 @@ const done = [
   'izss6QT59oH72uky3', // very easy
   'XKX5NHT92okxXCKW7', // very easy
   '3BqLw3Rp85Y94nAho', // very easy
+  '3pJCxeSiKFC9gKtYt', // easy
   '5L368ypvh5ZZ2HJSL', // easy
   'zHutBxQaWvzhzGgxL', // easy
   'webH9q8JMHc6SmTpY', // easy
@@ -63,6 +58,7 @@ const done = [
   'AhFCvDdQeA7TnKSqe', // easy
   'qWhoswdp35f8xzqGw', // easy
   'WR3Q72Jbv7Kyzu6AT', // easy
+  'udRB96tKMz43nhGkS', // 👍 easy
   'rqu2efZF7N2MEYDWk', // 👍 easy
   'EEWcSX7Rz5cWzes5d', // 👍 easy
   'fzF6JqF7JjtJok9jY', // 👍 easy
