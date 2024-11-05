@@ -33,6 +33,7 @@ const done = [
   'yks7uNNSRJFWDuj3m', // irrelevant
   'MT5SbF9Xg5Dku6bqL', // irrelevant
   'pDc7MLcGYzhCW6wRf', // irrelevant
+  '5cGbZP8N9mQXzDwML', // irrelevant
   'FvXHdrhjLaof47Qt3', // very easy
   'kJQYTCCWSnzhXG9dn', // very easy
   '7JBTN4TbaxJQMdX9W', // very easy
@@ -49,6 +50,7 @@ const done = [
   'izss6QT59oH72uky3', // very easy
   'XKX5NHT92okxXCKW7', // very easy
   '3BqLw3Rp85Y94nAho', // very easy
+  'HFBYPP8gSRn2n9qrQ', // very easy
   '3pJCxeSiKFC9gKtYt', // easy
   '5L368ypvh5ZZ2HJSL', // easy
   'zHutBxQaWvzhzGgxL', // easy
@@ -66,7 +68,6 @@ const done = [
 ];
 
 const listExercises = document.querySelectorAll('[role="listitem"]');
-
 
 listExercises.forEach((e) => {
 
@@ -91,5 +92,3 @@ listExercises.forEach((e) => {
 });
 
 done.length;
-
-
