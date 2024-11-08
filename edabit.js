@@ -1,4 +1,5 @@
 const done = [
+  'nkp5xkZwbBH5Ape8b', // irrelevant
   '8q54MKnRrm89pSLmW', // irrelevant
   'NAQhEoxbofPidLxm9', // irrelevant
   'QaApgtePE6QrCZ64o', // irrelevant
@@ -55,6 +56,7 @@ const done = [
   '3BqLw3Rp85Y94nAho', // very easy
   'HFBYPP8gSRn2n9qrQ', // very easy
   'rThajiu3LF7qiKpv9', // very easy
+  'L395zsraDGkjQCSpC', // very easy
   '3pJCxeSiKFC9gKtYt', // easy
   '5L368ypvh5ZZ2HJSL', // easy
   'zHutBxQaWvzhzGgxL', // easy
