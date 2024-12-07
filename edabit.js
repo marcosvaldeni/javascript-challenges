@@ -1,4 +1,12 @@
 const done = [
+  'sq7ZNMhAZ5ao8BMum', // irrelevant
+  'Y46Xp2pcvTB77bmdD', // irrelevant
+  'fBJyQSe5Jmbm9hPAG', // irrelevant
+  'PTiLYyb4A69KZtBCg', // irrelevant
+  'MvZK536X7fyrWH8Qc', // irrelevant
+  'XnJ24rWW7iJkNrtsh', // irrelevant
+  'Q2j5FTFtsk7PdzrQk', // irrelevant
+  'nhXofMMyrowMyr9Nv', // irrelevant
   '6AnQqiEjkJdZrWhPS', // irrelevant
   'wAdE9te55cowBLcPs', // irrelevant
   'j7yQbF3J3rToHsDBP', // irrelevant
@@ -80,6 +88,7 @@ const done = [
   'AhFCvDdQeA7TnKSqe', // easy
   'qWhoswdp35f8xzqGw', // easy
   'WR3Q72Jbv7Kyzu6AT', // easy
+  'xn3DTHgvGspvQxmRQ', // easy
   'udRB96tKMz43nhGkS', // 👍 easy
   'rqu2efZF7N2MEYDWk', // 👍 easy
   'EEWcSX7Rz5cWzes5d', // 👍 easy
