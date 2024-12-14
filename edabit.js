@@ -1,4 +1,5 @@
 const done = [
+  '5232asan2yFuMGnHq', // irrelevant
   'sq7ZNMhAZ5ao8BMum', // irrelevant
   'Y46Xp2pcvTB77bmdD', // irrelevant
   'fBJyQSe5Jmbm9hPAG', // irrelevant
@@ -90,10 +91,13 @@ const done = [
   'WR3Q72Jbv7Kyzu6AT', // easy
   'xn3DTHgvGspvQxmRQ', // easy
   'udRB96tKMz43nhGkS', // 👍 easy
+  '4weFPnpgS2S5aw4aN', // 👍 easy
   'rqu2efZF7N2MEYDWk', // 👍 easy
   'EEWcSX7Rz5cWzes5d', // 👍 easy
   'fzF6JqF7JjtJok9jY', // 👍 easy
   '5RiZh6yJKeGEo4P3z', // 👍👍 easy
+  'tSBCQQ8w9dAAZuKio', // 👍👍 easy
+  'aJzvBZgp8nzwSk94A', // 👍👍 easy
 ];
 
 const listExercises = document.querySelectorAll('[role="listitem"]');
