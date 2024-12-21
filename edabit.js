@@ -101,6 +101,7 @@ const done = [
   '5RiZh6yJKeGEo4P3z', // 👍👍 easy
   'tSBCQQ8w9dAAZuKio', // 👍👍 easy
   'aJzvBZgp8nzwSk94A', // 👍👍 easy
+  'dzdoYrTL5vws4dFud', // 👍👍 easy
 ];
 
 const listExercises = document.querySelectorAll('[role="listitem"]');
