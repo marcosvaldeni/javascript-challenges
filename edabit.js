@@ -1,4 +1,9 @@
 const done = [
+  'MwLp6s75F6S5wRrEJ', // irrelevant
+  '3xqP79TrHiwnwGizj', // irrelevant
+  'BEHiM4RTmhcLX7Cq6', // irrelevant
+  'NEPFa3NZSd8iiF3ps', // irrelevant
+  '8fnEAEj5vKNqAXNYA', // irrelevant
   'dWNPtNeQgyn6mS8FA', // irrelevant
   'T9nCQgLQJ9Pi9a9kH', // irrelevant
   'Qbi3GuXjwW5fsoKRn', // irrelevant
@@ -102,6 +107,7 @@ const done = [
   'rThajiu3LF7qiKpv9', // very easy
   'L395zsraDGkjQCSpC', // very easy
   'mptt94wPwNxqJJzgr', // very easy
+  'qgS7XZjvL8wEChNvq', // easy
   '5L368ypvh5ZZ2HJSL', // easy
   '9wL6dXj2tKNCe5pFz', // easy
   '3pJCxeSiKFC9gKtYt', // easy
