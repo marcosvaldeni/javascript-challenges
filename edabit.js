@@ -1,4 +1,5 @@
 const done = [
+  'EzbfiquDoAc2Zc9FL', // irrelevant
   'exMRkWdmmc6hccYiS', // irrelevant
   '4LnwAC3kgTctc7r3k', // irrelevant
   'WacpbmmhwWJ2Wgmy9', // irrelevant
@@ -185,4 +186,4 @@ listExercises.forEach((e) => {
   }
 });
 
-done.length;
+done[Math.round(Math.random() * done.length)];
