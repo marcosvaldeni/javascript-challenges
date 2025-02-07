@@ -1,4 +1,5 @@
 const done = [
+  'Q3n42rEWanZSTmsJm', // irrelevant
   'm6GYKsereS6JdARGW', // irrelevant
   'r9uigYABnbPLY7zsz', // irrelevant
   'S6zpG8RwDrxaFEQLE', // irrelevant
@@ -170,6 +171,8 @@ const done = [
   '4MSbtYFBiRtxHEkY8', // easy
   'dNZmjoi3Lip2j4emx', // easy
   'R6DX8wKMufT5hLRuK', // easy
+  'reR3jdfJnREauJj8d', // easy
+  'Gpy2qSFnfhGJnWMMj', // easy
   'udRB96tKMz43nhGkS', // 👍 easy
   '4weFPnpgS2S5aw4aN', // 👍 easy
   'rqu2efZF7N2MEYDWk', // 👍 easy
